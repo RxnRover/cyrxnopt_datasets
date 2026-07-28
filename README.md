@@ -24,4 +24,4 @@ Dataset CSVs follow the following conventions:
 - Feature/input columns come first, followed by one or more objective/output columns.
 - Units may be indicated in the column name or documented in the dataset-specific README.
 
-The exact columns, units, and valid ranges differ per dataset, see the dataset-specific `dataset/<dataset_name>/README.md` for details.
+The exact columns, units, and valid ranges differ per dataset, see the dataset-specific `datasets/<dataset_name>/README.md` for details.
