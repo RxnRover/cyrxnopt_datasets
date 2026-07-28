@@ -1,7 +1,5 @@
 # Imine Hydrogenation Dataset
 
-## Overview
-
 Experimental reaction dataset for the heterogeneously catalyzed hydrogenation of an imine, used as one of four real-world benchmarking surfaces in the CyRxnOpt reaction optimization benchmarking study. Pd/C-catalyzed hydrogenation of *N*-1-diphenylethan-1-imine is run in a plug-flow reactor. Three pumps deliver the imine reactant, polymethylhydrosiloxane (PMHS, the hydrogen source), and ethanol (solvent) to the Pd/C bed, with the ethanol pump topping up the total combined flow rate to a constant 0.6 mL/min. The dataset is intended for benchmarking and comparing reaction optimization algorithms on a smooth, low-dimensional, single-objective continuous optimization problem representative of automated flow chemistry.
 
 ## Dataset Collection

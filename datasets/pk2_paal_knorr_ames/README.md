@@ -1,7 +1,5 @@
 # PK2 - Paal-Knorr Reaction Dataset (Steady-State, Continuous Flow)
 
-## Overview
-
 Experimental reaction dataset for a Paal-Knorr reaction, collected via a continuous, steady-state flow method, used as one of four real-world benchmarking surfaces in the CyRxnOpt reaction optimization benchmarking study. Each set of reaction conditions was allowed to reach equilibrium before the result was measured. The dataset is intended for benchmarking and comparing reaction optimization algorithms on a rugged, sparsely sampled, multiple-local-optima, single-objective, continuous optimization problem, contrasting the PK1 dataset for a similar reaction class.
 
 ## Dataset Collection

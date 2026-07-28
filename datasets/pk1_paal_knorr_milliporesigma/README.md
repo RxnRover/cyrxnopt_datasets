@@ -1,7 +1,5 @@
 # PK1 - Paal-Knorr Reaction Dataset (Transient Flow)
 
-## Overview
-
 Experimental reaction dataset for a Paal-Knorr reaction, collected via a transient flow study, used as one of four real-world benchmarking surfaces in the CyRxnOpt reaction optimization benchmarking study. Conditions were explored via a transient flow method in which residence time was continuously ramped rather than held at discrete steady-state points, at multiple fixed temperatures. The dataset is intended for benchmarking and comparing reaction optimization algorithms on a smooth, single-objective, continuous optimization problem with dense data coverage.
 
 ## Dataset Collection

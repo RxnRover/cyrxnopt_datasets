@@ -1,7 +1,5 @@
 # Sugar Isomerization Datasets
 
-## Overview
-
 Experimental reaction datasets for fructose yield and selectivity from a NaX zeolite-catalyzed glucose isomerization reaction, used as one of four real-world benchmarking surfaces in the CyRxnOpt reaction optimization benchmarking study. The reaction is run as batch reactions in a binary γ-valerolactone (GVL)/water solvent system, with reaction mixtures prepared using a high-throughput automated dosing instrument (Chemspeed). The dataset is intended for benchmarking and comparing reaction optimization algorithms on a sharply peaked, multiple-local-optima, single- or multi-objective, continuous optimization problem.
 
 ## Dataset Collection
