@@ -25,3 +25,12 @@ Dataset CSVs follow the following conventions:
 - Units may be indicated in the column name or documented in the dataset-specific README.
 
 The exact columns, units, and valid ranges differ per dataset, see the dataset-specific `datasets/<dataset_name>/README.md` for details.
+
+## Initial CyRxnOpt Datasets
+
+To help distinguish future additions from the initial datasets, the following four datasets were used in the initial CyRxnOpt benchmarking paper are listed here:
+
+- [`imine_reduction`](datasets/imine_reduction/README.md)
+- [`pk1_paal_knorr_milliporesigma`](datasets/pk1_paal_knorr_milliporesigma/README.md)
+- [`pk2_paal_knorr_ames`](datasets/pk2_paal_knorr_ames/README.md)
+- [`sugar_isomerization`](datasets/sugar_isomerization/README.md)
