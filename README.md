@@ -35,6 +35,6 @@ To help distinguish future additions from the initial datasets, the following fo
 - [`pk2_paal_knorr_ames`](datasets/pk2_paal_knorr_ames/README.md)
 - [`sugar_isomerization`](datasets/sugar_isomerization/README.md)
 
-## Notice
+## Additional Copyright Notice
 
 This work was produced by Ames National Laboratory under Contract No. DE-AC02-07CH11358 with the U.S. Department of Energy. Publisher acknowledges the U.S. Government license to provide public access under the DOE Public Access Plan: https://www.energy.gov/doe-public-access-plan.
