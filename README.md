@@ -1,3 +1,5 @@
+[![Zenodo DOI](https://img.shields.io/badge/Zenodo-DOI-blue)](https://doi.org/10.5281/zenodo.22311247)
+
 # CyRxnOpt Datasets
 
 Datasets used in the initial benchmarking study for CyRxnOpt ([paper](https://doi.org/10.1039/d6dd00180g); [code](https://github.com/RxnRover/CyRxnOpt)). This repository may be updated in the future to include more datasets used in future studies.
