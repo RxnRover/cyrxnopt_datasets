@@ -1,6 +1,7 @@
 # CyRxnOpt Datasets
 
-[![CyRxnOpt](https://img.shields.io/badge/CyRxnOpt-Code-orange)](https://github.com/RxnRover/CyRxnOpt)
+[![CyRxnOpt Paper](https://img.shields.io/badge/CyRxnOpt-Paper-green)](https://doi.org/10.1039/d6dd00180g)
+[![CyRxnOpt Code](https://img.shields.io/badge/CyRxnOpt-Code-orange)](https://github.com/RxnRover/CyRxnOpt)
 [![Zenodo DOI](https://img.shields.io/badge/Zenodo-DOI-blue)](https://doi.org/10.5281/zenodo.22311247)
 
 Datasets used in the initial benchmarking study for CyRxnOpt ([paper](https://doi.org/10.1039/d6dd00180g); [code](https://github.com/RxnRover/CyRxnOpt)). This repository may be updated in the future to include more datasets used in future studies.
