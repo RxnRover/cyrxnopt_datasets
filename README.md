@@ -1,6 +1,6 @@
 # CyRxnOpt Datasets
 
-[![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-darkgray)](./LICENSE.txt)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](./LICENSE.txt)
 [![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22311247.svg)](https://doi.org/10.5281/zenodo.22311247)
 [![CyRxnOpt Paper](https://img.shields.io/badge/CyRxnOpt-Paper-green)](https://doi.org/10.1039/d6dd00180g)
 [![CyRxnOpt Code](https://img.shields.io/badge/CyRxnOpt-Code-orange)](https://github.com/RxnRover/CyRxnOpt)
