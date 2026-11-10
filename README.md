@@ -1,6 +1,6 @@
 # CyRxnOpt Datasets
 
-[![Zenodo DOI](https://img.shields.io/badge/Zenodo-DOI-blue)](https://doi.org/10.5281/zenodo.22311247)
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22311247.svg)](https://doi.org/10.5281/zenodo.22311247)
 [![CyRxnOpt Paper](https://img.shields.io/badge/CyRxnOpt-Paper-green)](https://doi.org/10.1039/d6dd00180g)
 [![CyRxnOpt Code](https://img.shields.io/badge/CyRxnOpt-Code-orange)](https://github.com/RxnRover/CyRxnOpt)
 
