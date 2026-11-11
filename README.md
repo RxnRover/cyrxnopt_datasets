@@ -1,6 +1,9 @@
 # CyRxnOpt Datasets
 
-Datasets used in the initial benchmarking study for CyRxnOpt ([paper](https://doi.org/10.26434/chemrxiv.15001645/v1); [code](https://github.com/RxnRover/CyRxnOpt)). This repository may be updated in the future to include more datasets used in future studies.
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22311247.svg)](https://doi.org/10.5281/zenodo.22311247)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](./LICENSE.txt)
+
+Datasets used in the initial benchmarking study for CyRxnOpt ([paper](https://doi.org/10.1039/d6dd00180g); [code](https://github.com/RxnRover/CyRxnOpt)). This repository may be updated in the future to include more datasets used in future studies.
 
 ## Repository Structure
 
